@@ -1,4 +1,4 @@
-import { jokes } from './jokes'
+import { jokes } from "./jokes";
 
 jokes.getOne()
     .then(joke => {

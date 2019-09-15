@@ -4,3 +4,4 @@ Thumbs.db
 docs/*.js.map
 docs/*.css.map
 dist/
+.cache
