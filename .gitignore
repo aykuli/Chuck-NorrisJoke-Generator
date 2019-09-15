@@ -1,5 +1,6 @@
 *.code-workspace
 node_modules/
 Thumbs.db
-dist/*.js.map
-dist/*.css.map
+docs/*.js.map
+docs/*.css.map
+dist/

@@ -3,4 +3,4 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 },{}],"Focm":[function(require,module,exports) {
 "use strict";var e=require("./jokes");e.jokes.getOne().then(function(e){document.getElementById("joke").innerHTML=e});
 },{"./jokes":"Wmte"}]},{},["Focm"], null)
-//# sourceMappingURL=/parceltest.e5042e5b.js.map
+//# sourceMappingURL=/Chuck-NorrisJoke-Generator.e5042e5b.js.map
