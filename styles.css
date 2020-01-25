@@ -1,7 +1,5 @@
-@import './backgrounds.scss';
-
 .wrap {
-    margin: 20px;
+    margin: 60px auto;
     padding: 10px;
     max-width: 600px;
 
