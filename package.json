@@ -7,8 +7,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "autoprefixer": "^9.6.1",
-    "sass": "^1.22.12"
+    "autoprefixer": "^9.7.4",
+    "sass": "^1.25.0"
   },
   "dependencies": {
     "jokes": "0.0.2",
